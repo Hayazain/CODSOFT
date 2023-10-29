@@ -1,0 +1,307 @@
+
+.navbar{
+    position: sticky !important;
+    top: 0px;
+    margin: 1% !important;
+    background-color: white !important;
+    z-index: 1;
+}
+
+.navbar-brand{
+    width: 15%;
+}
+
+.nav-item{
+   font-weight: bold !important;
+   color: black;
+}
+
+.nav-link:hover{
+    color: green !important;
+    text-decoration: underline;
+}
+
+#drop{
+    margin: 10px;
+    border-style: none;
+    font-weight: bold;
+}
+
+button{
+    background-color: rgb(33, 218, 33) !important;
+    color: black !important;
+    border-color: rgb(33, 218, 33) !important ;
+}
+
+button:hover{
+    transform: scale(1.2);
+    transition: step-start;
+}
+
+.video{
+    margin-left: 4%;
+    border-radius: 30px;
+    height: 700px;
+}
+
+.card{
+    border: none !important;
+}
+
+#a{
+    background-color: blue;
+    border-radius: 6%;
+    color: white;
+}
+
+#b{
+    background-color:rgb(150, 252, 218);
+    border-radius: 6%;
+    color: rgb(2, 56, 2);
+}
+
+#c{
+    background-color:rgb(170, 80, 255) ;
+    border-radius: 6%;
+    color: rgb(149, 250, 216);
+}
+
+#d{
+    background-color: rgb(4, 4, 58);
+    border-radius: 6%;
+    color: white;
+}
+
+ul > li{
+    font-weight: bolder;
+}
+
+.card-body{
+    height: 400px;
+}
+
+.row{
+    margin: 1%;
+    
+}
+
+.go{
+    font-size: 80px;
+}
+
+#one{
+    margin: auto;
+    background-color: darkgreen;
+    width: 100%;
+    height: 250px;
+    margin-top: 130px;
+    border-radius: 20px;
+}
+
+#plus{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+#drink{
+    float: right;
+    padding-top: 30px;
+    padding-right: 30px;
+    clear: both;
+}
+
+#para-1{
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 30px;
+    color: white;
+}
+
+.main{
+    margin: auto;
+    display: inline-block;
+    width: 100%;
+}
+
+.cont-1{
+    position: relative;
+    bottom: -200px;
+    border: 1px solid black;
+    width: 500px;
+    border-style: none;
+    margin-left: 150px;
+}
+
+#but{
+    background-color: green;
+    font-size: 15px;
+    width: 100px;
+    border-radius: 8px;
+}
+
+#about{
+    margin: auto;
+    padding-right: 80px;
+    float: right;
+    position: relative;
+    bottom: 50px;
+}
+
+.main-2{
+    background-image: url('background.png');
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+}
+
+.cont-2{
+    position: relative;
+    bottom: -200px;
+    border: 1px solid black;
+    width: 500px;
+    border-style: none;
+    margin-left: 700px;
+}
+
+#captain{
+    margin: auto;
+    padding-right: 80px;
+    float: left;
+    position: relative;
+    bottom: 50px;
+    margin-left: 100px;
+}
+
+.butt{
+    background-color: white !important;
+    border-color: white !important;
+    font-size: 15px;
+    width: 100px;
+    border-radius: 8px;
+}
+
+.main-3{
+    display: flex;
+    flex-direction: row;
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 950px;
+}
+
+#head{
+    position: relative;
+    top: 100px;
+    right: -140px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.b-1{
+    position: relative;
+    top: 200px;
+    left: -80px;
+}
+
+h4{
+    position: relative;
+    top: 20px;
+}
+
+.b-2{
+    position: relative;
+    top: 200px;
+    left: -20px;
+}
+
+.b-3{
+    position: relative;
+    top: 200px;
+    left: 40px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 300px;
+}
+
+.careem{
+    
+    width: 20%;
+    height: 250px;
+}
+
+.img-1{
+    position: relative;
+    top: 20px;
+    width:130px;
+}
+
+.img-2{
+    position: relative;
+    top: 40px;
+    width:130px;
+}
+
+.services{
+    
+    width: 20%;
+    height: 250px;
+    
+}
+
+.p-1{
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+
+.p-2{
+    position: relative;
+    top: 30px;
+}
+
+.p-3{
+    position: relative;
+    top: -20px;
+}
+
+.p-4{
+    position: relative;
+    top: 10px;
+    right: 10px;
+    
+}
+
+.sel{
+    border: none;
+}
+.parteners{
+    
+    width: 20%;
+    height: 250px;
+}
+
+.join{
+    
+    width: 20%;
+    height: 250px;
+}
+
+.about{
+    
+    width: 20%;
+    height: 250px;
+}
+
+.count{
+    
+    width: 20%;
+    height: 250px;
+}
+
+.hr{
+    width: 100%;
+}
